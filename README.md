@@ -1,13 +1,13 @@
 # TensorSlow
-## A re-implementation of <a href="http://www.tensorflow.org">TensorFlow</a> functionality in pure python
+## Um re-implementação do <a href="http://www.tensorflow.org">TensorFlow</a> funcionalmente em python puro
 
-TensorSlow is a minimalist machine learning API that mimicks the TensorFlow API, but is implemented in pure python (without a C backend). The source code has been built with maximal understandability in mind, rather than maximal efficiency. Therefore, TensorSlow should be used solely for educational purposes. If you want to understand how deep learning libraries like TensorFlow work under the hood, this may be your best shot. 
+TENSOR-SLOW é um API minimalista de Aprendizado de Máquina que imita a API do TENSOR-FLOW, porém é implementada em Python 3.7 puro (sem o back-end em C). O código fonte foi escrito para maximizar o entendimento das abstrações e detrimento da maxima eficiência performática. Contudo, TensorSlow deve ser utilizado para propósitos educacionais. Se você deseja entender como Bibliotecas como o TensorFlow são por de baixo do capô, aqui está uma oportunidade.
 
-I have written an article in my blog at <a href="http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/">deepideas.net</a> that develops this library step by step, explaining all the math and algorithms on the way: <a href="http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/">Deep Learning From Scratch</a>.
+Detalhes da produção original deste repositório, em inglês: <a href="http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/">deepideas.net</a> 
+Detalhes do desenvolvimento da biblioteca orginal em inglês:<a href="http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/">Deep Learning From Scratch</a>.
 
-## How to use
+## Como Utilizar:
 Import:
-
     import tensorslow as ts
 
 Create a computational graph:
