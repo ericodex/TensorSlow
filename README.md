@@ -1,7 +1,7 @@
 # TensorSlow
-## Um re-implementação do <a href="http://www.tensorflow.org">TensorFlow</a> funcionalmente em python puro
+## Uma re-implementação do <a href="http://www.tensorflow.org">TensorFlow</a> funcionalmente em python puro
 
-TENSOR-SLOW é um API minimalista de Aprendizado de Máquina que imita a API do TENSOR-FLOW, porém é implementada em Python 3.7 puro (sem o back-end em C). O código fonte foi escrito para maximizar o entendimento das abstrações e detrimento da maxima eficiência performática. Contudo, TensorSlow deve ser utilizado para propósitos educacionais. Se você deseja entender como Bibliotecas como o TensorFlow são por de baixo do capô, aqui está uma oportunidade.
+TENSOR-SLOW é um API minimalista de Aprendizado de Máquina que imita a API do TENSOR-FLOW, porém é implementada em Python 3.7 puro (sem o back-end em C). O código fonte foi escrito para maximizar o entendimento das abstrações e detrimento da máxima eficiência performática. Contudo, TensorSlow deve ser utilizado para propósitos educacionais. Se você deseja entender como Bibliotecas como o TensorFlow são por de debaixo do capô, aqui está uma oportunidade.
 
 Detalhes da produção original deste repositório, em inglês: <a href="http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/">deepideas.net</a> 
 Detalhes do desenvolvimento da biblioteca orginal em inglês:<a href="http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/">Deep Learning From Scratch</a>.
